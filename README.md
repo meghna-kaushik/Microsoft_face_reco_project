@@ -1,1 +1,1 @@
-A resilient attendance tracking system was created, which effectively detects and recognizes individuals from video feeds. The technologies employed in this project were Python and the OpenCV library.
+A reliable attendance tracking system was developed, which effectively identifies and recognizes individuals from video streams. The technologies utilized in this project were Python and the OpenCV library.
